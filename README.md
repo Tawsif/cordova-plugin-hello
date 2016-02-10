@@ -1,4 +1,4 @@
-# Cordova Hello World Plugin
+# Cordova Hello World Plugin (Copied from https://github.com/don/cordova-plugin-hello)
 
 Simple plugin that returns your string prefixed with hello.
 
